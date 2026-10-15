@@ -1,0 +1,73 @@
+[
+  {
+    "id": "SKP-202610-3915",
+    "patientName": "Dinesh Kumar Yadav",
+    "mobile": "9876543210",
+    "age": 45,
+    "gender": "Male",
+    "email": "dinesh.yadav@example.com",
+    "treatment": "Special Physiotherapy Session (Only ?50)",
+    "date": "2026-10-16",
+    "timeSlot": "09:30 AM",
+    "notes": "Lower back stiffness after long driving",
+    "status": "pending",
+    "createdAt": "2026-10-15T19:12:34.395Z",
+    "updatedAt": "2026-10-15T19:12:34.395Z"
+  },
+  {
+    "id": "SKP-202610-8421",
+    "patientName": "Rameshwar Prasad Singh",
+    "mobile": "9431012345",
+    "age": 62,
+    "gender": "Male",
+    "treatment": "Back Pain & Sciatica (कमर दर्द व सियाटिका)",
+    "date": "2026-10-15",
+    "timeSlot": "09:30 AM",
+    "notes": "Severe lower back stiffness radiating to left leg for 3 months.",
+    "status": "confirmed",
+    "createdAt": "2026-10-15T17:12:22.830Z",
+    "updatedAt": "2026-10-15T19:12:22.830Z"
+  },
+  {
+    "id": "SKP-202610-7219",
+    "patientName": "Shanti Devi",
+    "mobile": "9835098765",
+    "age": 58,
+    "gender": "Female",
+    "treatment": "Knee Pain & Arthritis (घुटनों का दर्द व गठिया)",
+    "date": "2026-10-15",
+    "timeSlot": "11:00 AM",
+    "notes": "Difficulty walking stairs, bilateral knee crepitus.",
+    "status": "pending",
+    "createdAt": "2026-10-15T15:12:22.830Z",
+    "updatedAt": "2026-10-15T19:12:22.830Z"
+  },
+  {
+    "id": "SKP-202610-3104",
+    "patientName": "Amit Kumar Sinha",
+    "mobile": "7004123456",
+    "age": 38,
+    "gender": "Male",
+    "treatment": "Cervical Pain (गर्दन का दर्द - IT Neck Strain)",
+    "date": "2026-10-16",
+    "timeSlot": "05:00 PM",
+    "notes": "Neck spasm and shoulder tightness from prolonged desk posture.",
+    "status": "confirmed",
+    "createdAt": "2026-10-14T19:12:22.830Z",
+    "updatedAt": "2026-10-15T19:12:22.830Z"
+  },
+  {
+    "id": "SKP-202610-1598",
+    "patientName": "Rajesh Ranjan",
+    "mobile": "9122334455",
+    "age": 49,
+    "gender": "Male",
+    "treatment": "Post-Fracture Stiffness (फ्रेक्चर के बाद जोड़ों का जाम होना)",
+    "date": "2026-10-17",
+    "timeSlot": "10:00 AM",
+    "notes": "Right wrist immobilization stiffness post plaster removal.",
+    "status": "pending",
+    "createdAt": "2026-10-15T19:12:22.830Z",
+    "updatedAt": "2026-10-15T19:12:22.830Z"
+  }
+]
